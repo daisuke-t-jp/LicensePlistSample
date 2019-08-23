@@ -1,0 +1,27 @@
+{
+  "Mac" : [
+    {
+      "name" : "SwiftyXMLParser",
+      "hash" : "432c233400b843830c24efa9d9d2bdbd83a63c6ca42c5859a35e8ef13e723228",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "name" : "SwiftyXMLParser",
+      "hash" : "6b3ac063936b58bb4301af4c70955c88144210a6171602860843d47ec402203c",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ],
+  "commitish" : "5.0.0",
+  "iOS" : [
+    {
+      "name" : "SwiftyXMLParser",
+      "hash" : "b079b7f3d5d67258228f2eb09fa4ad664fe065114439ab4b68bb205ebde7d7e1",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}

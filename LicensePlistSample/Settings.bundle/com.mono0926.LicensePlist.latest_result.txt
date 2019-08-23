@@ -1,0 +1,9 @@
+name: ReachabilitySwift, nameSpecified: 
+body: Copyright (c) 2016 A…
+version: 4.3.1
+
+name: SwiftyXMLParser, nameSpecified: , owner: yahoojapan, version: 5.0.0
+
+add-version-numbers: false
+
+LicensePlist Version: 1.8.3
